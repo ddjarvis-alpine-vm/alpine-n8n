@@ -1,0 +1,6 @@
+**/.env
+n8n/data/
+odysseus/data/
+postgres/data/
+cloudflared/config/
+*.log
